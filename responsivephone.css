@@ -1,0 +1,90 @@
+@media only screen and (max-width: 760px) {
+    .carousel-item ul {
+        list-style: none;
+        margin-bottom: -185px;
+        margin-left: -11px;
+    }
+
+    .carousel-item ul li {
+        font-size: 20px;
+        font-weight: 500;
+        line-height: 30px;
+        margin: 16px 0px;
+
+    }
+
+  
+
+    .carousel-item img {
+        visibility: hidden;
+    }
+
+    .carousel-inner {
+        background-color: #000000;
+    }
+
+    .carousel-item.item-1 {
+        background-image: url("img/zudio\ \(2\).png");
+        background-size: contain;
+        background-repeat: no-repeat;
+        height: 700px;
+        width: 700px;
+
+    }
+    .carousel-item.item-2 {
+        background-image: url("img/zudio\ \(4\).png");
+        background-size: contain;
+        background-repeat: no-repeat;
+        height: 700px;
+        width: 700px;
+
+    }
+    .carousel-item.item-3 {
+        background-image: url("img/zudio\ \(6\).png");
+        background-size: contain;
+        background-repeat: no-repeat;
+        height: 700px;
+        width: 700px;
+
+    }
+    .carousel-item.item-4 {
+        background-image: url("img/zudio\ \(8\).png");
+        background-size: contain;
+        background-repeat: no-repeat;
+        height: 700px;
+        width: 700px;
+
+    }
+    .carousel-item.item-5 {
+        background-image: url("img/zudio\ \(10\).png");
+        background-size: contain;
+        background-repeat: no-repeat;
+        height: 700px;
+        width: 700px;
+
+    }
+    .carousel-item.item-6 {
+        background-image: url("img/zudio\ \(12\).png");
+        background-size: contain;
+        background-repeat: no-repeat;
+        height: 700px;
+        width: 700px;
+
+    }
+    .carousel-item.item-7 {
+        background-image: url("img/zudio\ \(14\).png");
+        background-size: contain;
+        background-repeat: no-repeat;
+        height: 700px;
+        width: 700px;
+
+    }
+
+    .foottxt{
+        font-size: 10px;
+        font-weight: 400;
+        padding-top: 10px;
+        text-align: center;
+    }
+
+}

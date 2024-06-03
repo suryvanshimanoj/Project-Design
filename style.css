@@ -1,0 +1,87 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.navbar {
+    background-color: #000000;
+}
+
+.navbar a {
+    color: white;
+    font-family: Futura, sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-variant-caps: normal;
+    font-variant-east-asian: normal;
+    font-variant-ligatures: normal;
+    font-variant-numeric: normal;
+    font-weight: 500;
+    margin: 0px 20px;
+}
+
+.carousel-item ul{
+    list-style: none;
+    margin-bottom: -154px;
+    margin-left: 39px;
+}
+.carousel-item ul li a{
+    text-decoration: none;
+    color: white;
+    
+}
+.carousel-item ul li{
+   font-size: 20px;
+   font-weight: 500;
+   line-height: 30px;
+    margin: 16px 0px;
+
+}
+
+.slide-1 {
+    position: absolute;
+    bottom: 198px;
+}
+.slide-2 {
+    position: absolute;
+    bottom: 198px;
+}
+.slide-3 {
+    position: absolute;
+    bottom: 198px;
+}
+.slide-4 {
+    position: absolute;
+    bottom: 198px;
+}
+.slide-5 {
+    position: absolute;
+    bottom: 198px;
+}
+.slide-6 {
+    position: absolute;
+    bottom: 198px;
+}
+.slide-7 {
+    position: absolute;
+    bottom: 198px;
+}
+
+
+
+
+.footer{
+    height: 66px;
+    background-color: #000000;
+}
+.foottxt{
+    color: white;
+    display: flex;
+    justify-content: center;
+    justify-content: space-between;
+    padding: 0px 100px;
+    padding-top: 27px;
+    font-size: 18px;
+    font-weight: 500;
+}

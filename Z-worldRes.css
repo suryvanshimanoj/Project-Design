@@ -1,0 +1,18 @@
+@media only screen and (max-width: 1000px){
+
+
+    .big-1 h1{
+        font-size: 40px;
+        line-height: 55px;
+    }
+    .big-1 h5{
+        color: #6D6E71;
+        font-size: 20px;
+        line-height: 30px;
+        font-family: 500;
+    }
+
+    .big-1{
+        margin: 77px 0px;
+    }
+}

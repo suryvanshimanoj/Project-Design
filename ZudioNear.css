@@ -1,0 +1,113 @@
+.homeandstore a {
+    text-decoration: none;
+    color: black;
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: 500;
+}
+
+.homeandstore a:hover {
+
+    color: silver;
+}
+
+.pageheader h1 {
+    font-size: 26px;
+    line-height: 24px;
+    letter-spacing: 2px;
+    font-weight: 700;
+
+
+}
+
+.txt h1 {
+    font-size: 26px;
+    line-height: 31px;
+    font-weight: 700;
+}
+
+.findstoreBox {
+    background-color: #c6c2c2;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 35px 0;
+    flex-direction: column;
+    margin-bottom: 30px;
+}
+
+.storelist h1{
+    margin-bottom: 20px;
+}
+
+.select-1 {
+    margin-top: 20px;
+    margin-left: 25px;
+}
+
+.selectin {
+
+    width: 300px;
+    margin-left: 25px;
+}
+
+.storelist h1 {
+    font-size: 24px;
+    line-height: 24px;
+    letter-spacing: 2px;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+.col{
+    background-color: #c6c2c2;
+    margin: 2px;
+    padding: 15px;
+}
+.col h3 {
+    font-size: 16px;
+    line-height: 19.2px;
+    font-weight: 700;
+}
+
+.col h5 {
+     
+    font-size: 15px;
+    line-height: 15.7px;
+    font-weight: 700;
+    
+}
+
+.col p{
+    font-size: 12px;
+    line-height: 18px;
+    font-weight: 500;
+}
+
+button{
+    background-color: black;
+    border: none;
+    text-align: center;
+    padding: 3px 12px;
+}
+
+button a {
+    text-decoration: none;
+    color: white;
+    font-size: 12px;
+    line-height: 18px;
+    font-weight: 700;
+
+    
+
+}
+button a:hover {
+
+    color: white;
+  
+}
+
+.row{
+    display: flex;
+    flex-direction: column;
+}

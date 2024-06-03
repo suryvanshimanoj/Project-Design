@@ -1,0 +1,13 @@
+.big-1 h1{
+    font-size: 60px;
+    line-height: 72px;
+}
+.big-1 h5{
+    color: #6D6E71;
+    font-size: 30px;
+    line-height: 45px;
+    font-family: 500;
+}
+.big-1{
+    margin: 55px 0px;
+}
